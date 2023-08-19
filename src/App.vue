@@ -127,6 +127,7 @@ body {
   width: 100%;
   text-overflow: ellipsis;
   border-bottom: 1px #808080 solid;
+  background-color: transparent;
 }
 
 .add-input:focus {
